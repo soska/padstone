@@ -1,0 +1,20 @@
+{
+  "name": "padstone",
+  "version": "0.1.0",
+  "description": "A simpler foundation (CSS Framework)",
+  "main": "padstone.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soska/padstone.git"
+  },
+  "author": "Armando Sosa (http://armandososa.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soska/padstone/issues"
+  },
+  "homepage": "https://github.com/soska/padstone#readme",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "node-sass": "^3.2.0"
+  }
+}
