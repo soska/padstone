@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "A simpler foundation (CSS Framework)",
   "main": "padstone.css",
+  "bin": "padstone.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/soska/padstone.git"
